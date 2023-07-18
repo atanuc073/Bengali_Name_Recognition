@@ -1,7 +1,7 @@
 
 # Bengali Name Entity Recognition
 
-This a project to extract bengali names names in a bengali text.
+This a project to extract bengali names in a bengali text.
 
 ## Authors
 
