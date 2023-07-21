@@ -1,7 +1,7 @@
 
 # Bengali Name Entity Recognition
 
-This a project to extract names names in a bengali text.
+This a project to extract bengali names in a bengali text.
 
 ## Authors
 
@@ -176,8 +176,4 @@ class BertAttentionMLP(nn.Module):
 
 
 
-## Model Output
-## Screenshots
-
-![App Screenshot]
 
